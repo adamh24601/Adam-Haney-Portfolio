@@ -7,3 +7,5 @@
 #### Skills: Predictive Modeling, Data Exploration, Seaborn, Ensemble modeling
 ### [Covid Tourism Sentiment Analysis](https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/Covid%20Sentiment%20Analysis.ipynb)
 #### Skills: Sentiment Analysis, Regression, Correlational Analysis
+### [FL Hotel Tripadvisor Review Topics](https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/TopicModelingFLReviews.ipynb)
+#### Skills: Topic Modeling, Data Cleaning, NLP
