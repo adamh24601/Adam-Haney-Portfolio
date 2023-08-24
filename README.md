@@ -1,5 +1,8 @@
 # Adam-Haney-Portfolio
-Portfolio Projects
+Portfolio Projects:
+[Python](https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/README.md#python)
+[SQL]
+[R]
 ## Python
 ### [Flight Delay Predictions](https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/Flight%20Delay%20Predictions.ipynb)
 #### Skills: Predictive Modeling, Data Exploration, Plotly
