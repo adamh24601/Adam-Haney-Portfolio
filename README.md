@@ -1,7 +1,7 @@
 # Adam-Haney-Portfolio
 ### [Python](https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/README.md#python)
 ### [Tableau](https://public.tableau.com/app/profile/adam.haney)
-### [SQL] (https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/README.md#SQL)
+### [SQL](https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/README.md#SQL)
 ## Python
 ### [Flight Delay Predictions](https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/Flight%20Delay%20Predictions.ipynb)
 #### Skills: Predictive Modeling, Data Exploration, Data Preparation, Seaborn, Ensemble modeling
