@@ -1,7 +1,7 @@
 # Adam-Haney-Portfolio
 ### [Published Research (External Link)](https://www.researchgate.net/profile/Adam-Haney-2/research)
 ### [Tableau (External Link)](https://public.tableau.com/app/profile/adam.haney)
-### [Python](https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/README.md#python)
+### [Python]([https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/README.md#python](https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/README.md#python-1))
 ### [SQL](https://github.com/adamh24601/Adam-Haney-Portfolio/blob/main/README.md#SQL)
 
 ## About Me
